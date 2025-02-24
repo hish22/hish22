@@ -1,5 +1,5 @@
 # Hi, I’m hish22 *(Pling77)*
-- 👨‍💻 Developer | Open-sourc enthusiast | Computer Science enthusiast
+- 👨‍💻 Developer | Open-source enthusiast | Computer Science enthusiast
   
 ![Status](https://img.shields.io/badge/Status-Active-green)
 
